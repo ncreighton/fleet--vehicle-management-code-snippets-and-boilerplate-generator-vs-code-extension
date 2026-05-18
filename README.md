@@ -1,0 +1,2 @@
+# fleet--vehicle-management-code-snippets-and-boilerplate-generator-vs-code-extension
+A comprehensive VS Code extension that accelerates fleet and vehicle management development by providing a rich library of code snippets and boilerplate generators. Designed for developers working on telematics, logistics, and transportation software, it offers pre-built templates for common tasks such as vehicle tracking, fuel management, maintena
